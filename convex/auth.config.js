@@ -1,7 +1,7 @@
 export default {
   providers: [
     {
-      domain: "https://special-marten-43.clerk.accounts.dev",
+      domain: "https://crucial-monitor-83.clerk.accounts.dev",
       applicationID: "convex",
     },
   ],
